@@ -1,0 +1,4 @@
+name: FallingBlockFix
+version: '${project.version}'
+main: me.miko.fallingblockfix.FallingBlockFix
+authors: [ MIKO ]
