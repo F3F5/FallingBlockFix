@@ -1,0 +1,5 @@
+fallingBlock:
+  xRadius: 10
+  yRadius: 255 # Whole chunk height
+  zRadius: 10
+  maxCountInRange: 50 # Max entities that detected in radius
